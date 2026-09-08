@@ -1,8 +1,8 @@
 ---
 layout: default
 title: First attempts to find the passage 
-parent: Measuring the California Coast
-last_modified_date: 2026-06-25
+parent: The Northwest Passage in Maps
+last_modified_date: 2026-09-08
 nav_order: 2
 ---
 
