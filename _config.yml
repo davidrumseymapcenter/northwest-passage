@@ -1,14 +1,17 @@
-title: Measuring the California Coast
-description: Curriculum material for teaching about nineteeth-century precision mapping of the California coast. 
-theme: just-the-docs
+title: Search for the Northwest Passage
+description: Curriculum material for teaching about the European quest to find a passageway between the Pacific and Atlantic Oceans. 
 
-url: https://davidrumseymapcenter.github.io/measuring-california-coast
+url: https://davidrumseymapcenter.github.io/
+baseurl: "northwest-passage"
+
+remote_theme: justthedocs/justthedocs
 
 aux_links: # remove if you don't want this link to appear on your pages
-  Home: https://davidrumseymapcenter.github.io/measuring-california-coast
+  Home: https://davidrumseymapcenter.github.io/northwest-passage
 
 plugins:
   - jekyll-default-layout
+  - jekyll-remote-theme
   
 # Enable or disable heading anchors
 heading_anchors: true
@@ -27,10 +30,7 @@ nav_enabled: true
 back_to_top: false
 back_to_top_text: "Back to top"
 
-footer_content: 
-  '&copy; 2026 <a href="mailto:lkrueger@stanford.edu">Laura Krueger</a> and <a href="mailto:kllarsen@stanford.edu">Kristina Larsen</a>.
-
-  Website under development. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfb6bHWc-lADef1QG6Pdsy95Mlsf-vDcXHpt4txxqjDrN2uzQ/viewform">Feedback and comments</a> are appreciated.'
+footer_content: "&copy; 2026 David Rumsey Map Center."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
