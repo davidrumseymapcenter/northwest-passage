@@ -1,0 +1,58 @@
+title: Measuring the California Coast
+description: Curriculum material for teaching about nineteeth-century precision mapping of the California coast. 
+theme: just-the-docs
+
+url: https://davidrumseymapcenter.github.io/measuring-california-coast
+
+aux_links: # remove if you don't want this link to appear on your pages
+  Home: https://davidrumseymapcenter.github.io/measuring-california-coast
+
+plugins:
+  - jekyll-default-layout
+  
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
+# Enable or disable the side/mobile menu globally
+# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
+nav_enabled: true
+
+# Footer content
+# appears at the bottom of every page's main content
+
+# Back to top link
+back_to_top: false
+back_to_top_text: "Back to top"
+
+footer_content: 
+  '&copy; 2026 <a href="mailto:lkrueger@stanford.edu">Laura Krueger</a> and <a href="mailto:kllarsen@stanford.edu">Kristina Larsen</a>.
+
+  Website under development. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfb6bHWc-lADef1QG6Pdsy95Mlsf-vDcXHpt4txxqjDrN2uzQ/viewform">Feedback and comments</a> are appreciated.'
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+# Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
+color_scheme: nil
+
+# When commented out, callouts_level defaults to quiet for the light scheme, and loud for dark
+# callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
