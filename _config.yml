@@ -4,7 +4,7 @@ description: Curriculum material for teaching about the European quest to find a
 url: https://davidrumseymapcenter.github.io/
 baseurl: "northwest-passage"
 
-remote_theme: justthedocs/justthedocs
+remote_theme: just-the-docs/just-the-docs
 
 aux_links: # remove if you don't want this link to appear on your pages
   Home: https://davidrumseymapcenter.github.io/northwest-passage
