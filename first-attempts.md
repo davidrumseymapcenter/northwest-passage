@@ -12,7 +12,9 @@ nav_order: 1
  
 Sixteenth-century Spanish explorers were the first to attempt to find the Strait of Anian, sailing north from settlements in Mexico. 
 
-* Expeditions required long journeys through uncharted territory into perilous storms, fogs, winds, and currents
+* Expeditions north from Mexico took many months and journeyed through uncharted territory into perilous storms, fog, and hazardous waters 
+
+* Sailing north along the California coast is slower and more challenging than sailing south due to opposing winds and currents
 
 * In long voyages at sea, explorers would typically replenish supplies like food and water and make repairs to ships and sails along the way, but found few safe harbors along the west coast
 
