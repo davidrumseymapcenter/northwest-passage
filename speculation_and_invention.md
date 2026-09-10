@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Speculation and Invention
+title: Speculation and invention
 parent: The Northwest Passage in Maps
 last_modified_date: 2026-06-25
 nav_order: 3
 ---
 
-# Speculation and Cartographic Invention
+# Speculation and cartographic invention
 
 ---
 
