@@ -3,7 +3,7 @@ layout: default
 title: First attempts to find the passage 
 parent: The Northwest Passage in Maps
 last_modified_date: 2026-09-08
-nav_order: 2
+nav_order: 1
 ---
 
 # First attempts to find the passage
