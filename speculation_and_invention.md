@@ -20,7 +20,7 @@ Below, several different European cartographic depictions of the Pacific Northwe
 
 ---
 
-![Map titled The North part of America conteyning Newfoundland, New England, Virginia, Florida, New Spaine and Nova Francia, with ye riche Iles of Hispaniola, Cuba, Jamaica, and Porto Rieco, on the south, and upon ye west the large and goodly island of California](<images/1625_Briggs_North_part_of_America.jpg>)
+<img width="776" height="680" alt="1625_Briggs_North_part_of_America" src="images/1625_Briggs_North_part_of_America.jpg" />
 
 1625, Briggs, *The North part of America conteyning Newfoundland, New England, Virginia, Florida, New Spaine and Nova Francia, with ye riche Iles of Hispaniola, Cuba, Jamaica, and Porto Rieco, on the south, and upon ye west the large and goodly island of California*
 
