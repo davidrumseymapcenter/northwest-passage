@@ -24,7 +24,7 @@ Below is a reproduction of Viscaíno’s mapping of the California coastline.
 
 ---
 
-![Map titled Carta de los reconocimientos hechos en 1602.](<img width="1309" height="1536" alt="1802_copy_of_1602_Carta_de_los_reconocimientos" src="images/1802_copy_of_1602_Carta_de_los_reconocimientos.jpg" />)
+<img width="1309" height="1536" alt="1802_copy_of_1602_Carta_de_los_reconocimientos" src="images/1802_copy_of_1602_Carta_de_los_reconocimientos.jpg" />
 
 1802, Espinosa y Tello, Carta de los reconocimientos hechos en 1602. Por el Capitan Sebastian Vizcayno formada por los Planos que hizo el mismo durante su commission (Viscaíno map made 200 years after the voyage). This is a map inside of an atlas:  Atlas para el Viage de las Goletas Sutil y Mexicana al reconocimiento del Estrecho de Juan de Fuca en 1792, Publicado en 1802 
 
