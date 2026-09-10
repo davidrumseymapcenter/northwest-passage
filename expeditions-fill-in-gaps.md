@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Expeditions fill in the gaps
-parent: Measuring the California Coast
+parent: The Northwest Passage in Maps
 last_modified_date: 2026-06-25
 nav_order: 4
 ---
