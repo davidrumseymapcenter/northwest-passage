@@ -3,7 +3,7 @@ layout: default
 title: Wild Pacific Coast
 parent: Measuring the California Coast
 last_modified_date: 2026-06-25
-nav_order: 1
+nav_order: 0
 ---
 
 # The wild Pacific Coast 
