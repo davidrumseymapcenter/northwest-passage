@@ -33,7 +33,7 @@ Below, several different European cartographic depictions of the Pacific Northwe
 ---
 This 1660 map from London shows another cartographer’s depiction of California as an Island but with the Strait of Anian much further north, resembling the Bering Strait, and the area in between labeled New Albion for England. The cartographer readily admits a lack of certainty about the strait. He comments, “[Farther towards the North America is yet unknown, yet there are many conjectures concerning the passing of the Straits of Anian and Davis].” 
 
-<img width="813" height="653" alt="1660_Walton_New_Plaine_Exact_Map" src="https://github.com/user-attachments/assets/fe8b4a94-c669-4c25-becb-8c485c5236ec" />
+<img width="813" height="653" alt="1660_Walton_New_Plaine_Exact_Map" src="images/1660_Walton_New_Plaine_Exact_Map.jpg">
 
 1660, Walton, *A NEW, Plaine, and Exact Map of AMERICA: described by N:I: Visscher, and don into English, enlarged, and corrected, according to I: Blaeu, with the habits of the countries, and the manner of the cheife Citties: the like never before.*
 
@@ -42,7 +42,7 @@ This 1660 map from London shows another cartographer’s depiction of California
 ---
 This 1666 map (below) by Dutch cartographer Peter Goos depicts the Strait of Anian directly above California. A sailing ship appears headed toward the strait. When compared to the 1660 Walton map (above) it becomes clear that European cartographers were unsure about the location of the Strait, or whether it existed at all.
 
-<img width="1066" height="905" alt="1666_Goos_Paskaerte_van_NOVA_GRANADA" src="https://github.com/user-attachments/assets/d5422581-f0ad-4bad-845f-1ebfdd00b724" />
+<img width="1066" height="905" alt="1666_Goos_Paskaerte_van_NOVA_GRANADA" src="images/1666_Goos_Paskaerte_van_NOVA_GRANADA.jpg" />
 
 1666, Pieter Goos, *Paskaerte van NOVA GRANADA, en t'Eylandt CALIFORNIA*
 
@@ -51,7 +51,7 @@ This 1666 map (below) by Dutch cartographer Peter Goos depicts the Strait of Ani
 ---
 A few years later (in 1677), a French map implies the possibility of a wide-open northwest passage between a Strait of Anian above California and Buttons Bay to the northeast. 
 
-<img width="910" height="694" alt="1677_Duval_Carte_Universelle_du_Monde" src="https://github.com/user-attachments/assets/90efac1a-bbe0-45d0-a968-bb5318ad4983" />
+<img width="910" height="694" alt="1677_Duval_Carte_Universelle_du_Monde" src="images/1677_Duval_Carte_Universelle_du_Monde.jpg" />
 
 1677, Duval, *CARTE VNIVERSELLE du MONDE Avec de nouvelles Observations : AMERIQUE SEPTEMTRIONALE.* 
 
@@ -61,7 +61,7 @@ A few years later (in 1677), a French map implies the possibility of a wide-open
 
 A German map from 1700 again shows the Strait of Anian above California but the cartographer conveniently hides any ideas about a connected Northwest Passage by placing a globe and podium over the region.
 
-<img width="815" height="553" alt="1700_Scherer_Idea_Naturalis_Americae_Borealis" src="https://github.com/user-attachments/assets/1eef3aca-4731-4414-95cd-8498700655ba" />
+<img width="815" height="553" alt="1700_Scherer_Idea_Naturalis_Americae_Borealis" src="images/1700_Scherer_Idea_Naturalis_Americae_Borealis.jpg" />
 
 1700, Scherer, *IDEA NATVRALIS AMERICÆ BOREALIS DIGITO DEI FORMATA GEOGRAPHICE PROPOSITA AN MDCC.* 
 
@@ -71,7 +71,7 @@ A German map from 1700 again shows the Strait of Anian above California but the 
 
 In the same period, a French map shows a completely open passage between the Pacific and Atlantic Oceans via the Strait of Anian above California.
 
-<img width="727" height="635" alt="1700_Mortier_Carte_Generale_du_Monde" src="https://github.com/user-attachments/assets/e1b51a5e-7861-46fd-b7fa-57e2c44f929f" />
+<img width="727" height="635" alt="1700_Mortier_Carte_Generale_du_Monde" src="images/1700_Mortier_Carte_Generale_du_Monde.jpg" />
 
 [1700], Mortier, *Carte generale du monde, ou description du monde terrestre & aquatique = Generale waereld kaart, of beschryving van de land en water waereld*
 
@@ -81,7 +81,7 @@ In the same period, a French map shows a completely open passage between the Pac
 
 A British map published in 1719 shows the Strait of Anian but acknowledges “Parts Unknown” to the north.
 
-<img width="1125" height="751" alt="1719_Moll_North_America" src="https://github.com/user-attachments/assets/5ac59d90-0961-4410-9f3b-e5b04c9b98f5" />
+<img width="1125" height="751" alt="1719_Moll_North_America" src="images/1719_Moll_North_America.jpg" />
 
 1719, Moll, *North America* 
 
